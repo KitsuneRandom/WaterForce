@@ -8,27 +8,27 @@ Rattachée au ministère de l'Intérieur, la Direction de la Sécurité Civile (
 responsable de la gestion des risques en France pour les accidents de la vie courante ou les
 catastrophes majeures. Parmi ses compétences figure la gestion des services départementaux
 d’incendie et de secours (SDIS) qui gère les centres d’incendie et de secours (CIS) appelés
-familièrement "casernes".
+familièrement "casernes". \n
 Concevoir une application permettant la gestion complè te de quatre casernes de pompiers
-(personnel, matériel et missions effectuées).
-Votre application devra offrir les fonctionnalités suivantes :
-- Volet 1 : tableau de bord des missions en cours.
+(personnel, matériel et missions effectuées). \n
+Votre application devra offrir les fonctionnalités suivantes : \n
+- Volet 1 : tableau de bord des missions en cours. \n
 - Volet 2 : création d’une nouvelle mission puis affectation du matériel nécessaire ainsi que
-des pompiers missions.
-- Volet 3 : Visualisation en mode 1 à 1 des engins d’une caserne donnée.
+des pompiers missions. \n
+- Volet 3 : Visualisation en mode 1 à 1 des engins d’une caserne donnée. \n
 - Volet 4 : gestion du personnel d’une caserne (données signalétiques, carrière et habilitations
 des pompiers ). L’aspect « mise à jour » est réservé aux utilisateurs disposant de droits
-d’administration.
-- Volet 5 : Statistiques à destination du régulateur.
+d’administration. \n
+- Volet 5 : Statistiques à destination du régulateur. \n
 L’ensemble des informations utiles seront stocké es dans une base SQLite intitulé e «SDIS67.db»,
-dont vous trouverez le schéma conceptuel en annexe.
+dont vous trouverez le schéma conceptuel en annexe. \n
 Bonne pratique : La gestion de la connexion (ouverture/fermeture) sera gérée à partir d’une classe
-Connexion.cs (fournie sur moodle).
+Connexion.cs (fournie sur moodle). \n
 Votre application devra permettre la prise en charge des diffé rents volets dé crits ci-dessous (vous
-pouvez, mais ce n’est pas obligatoire, concevoir un formulaire par volet).
+pouvez, mais ce n’est pas obligatoire, concevoir un formulaire par volet). \n
 Vous veillerez tout particuliè rement à la qualité et la lisibilité de votre code, que vous n’hé siterez pas à
 commenter autant que possible.Pour la conception des interfaces graphiques, une attention
-particuliè re sera porté e à leur ergonomie et l’originalité de leur design.
+particuliè re sera porté e à leur ergonomie et l’originalité de leur design. \n
 
 ---
 
