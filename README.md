@@ -11,24 +11,24 @@ d’incendie et de secours (SDIS) qui gère les centres d’incendie et de secou
 familièrement "casernes". </p>
 <p>Concevoir une application permettant la gestion complè te de quatre casernes de pompiers
 (personnel, matériel et missions effectuées). </p>
-Votre application devra offrir les fonctionnalités suivantes : \n
-- Volet 1 : tableau de bord des missions en cours. \n
-- Volet 2 : création d’une nouvelle mission puis affectation du matériel nécessaire ainsi que
-des pompiers missions. \n
-- Volet 3 : Visualisation en mode 1 à 1 des engins d’une caserne donnée. \n
-- Volet 4 : gestion du personnel d’une caserne (données signalétiques, carrière et habilitations
+<p>Votre application devra offrir les fonctionnalités suivantes : </p>
+<p>- Volet 1 : tableau de bord des missions en cours. </p>
+<p>- Volet 2 : création d’une nouvelle mission puis affectation du matériel nécessaire ainsi que
+des pompiers missions. </p>
+<p>- Volet 3 : Visualisation en mode 1 à 1 des engins d’une caserne donnée. </p>
+<p>- Volet 4 : gestion du personnel d’une caserne (données signalétiques, carrière et habilitations
 des pompiers ). L’aspect « mise à jour » est réservé aux utilisateurs disposant de droits
-d’administration. \n
-- Volet 5 : Statistiques à destination du régulateur. \n
-L’ensemble des informations utiles seront stocké es dans une base SQLite intitulé e «SDIS67.db»,
-dont vous trouverez le schéma conceptuel en annexe. \n
-Bonne pratique : La gestion de la connexion (ouverture/fermeture) sera gérée à partir d’une classe
-Connexion.cs (fournie sur moodle). \n
-Votre application devra permettre la prise en charge des diffé rents volets dé crits ci-dessous (vous
-pouvez, mais ce n’est pas obligatoire, concevoir un formulaire par volet). \n
-Vous veillerez tout particuliè rement à la qualité et la lisibilité de votre code, que vous n’hé siterez pas à
+d’administration. </p>
+<p>- Volet 5 : Statistiques à destination du régulateur. </p>
+<p>L’ensemble des informations utiles seront stocké es dans une base SQLite intitulé e «SDIS67.db»,
+dont vous trouverez le schéma conceptuel en annexe. </p>
+<p>Bonne pratique : La gestion de la connexion (ouverture/fermeture) sera gérée à partir d’une classe
+Connexion.cs (fournie sur moodle). </p>
+<p>Votre application devra permettre la prise en charge des diffé rents volets dé crits ci-dessous (vous
+pouvez, mais ce n’est pas obligatoire, concevoir un formulaire par volet). </p>
+<p>Vous veillerez tout particuliè rement à la qualité et la lisibilité de votre code, que vous n’hé siterez pas à
 commenter autant que possible.Pour la conception des interfaces graphiques, une attention
-particuliè re sera porté e à leur ergonomie et l’originalité de leur design. \n
+particuliè re sera porté e à leur ergonomie et l’originalité de leur design. </p>
 
 ---
 
