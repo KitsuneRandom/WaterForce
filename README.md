@@ -4,13 +4,13 @@
 à noter : aucun dépôt git n'a été créé lors de la réalisation du projet. Ceci est donc un simple dépôt généré après sa réalisation.
 
 <h3>Contexte du projet (donné par les professeurs responsables du projet) : </h3>
-Rattachée au ministère de l'Intérieur, la Direction de la Sécurité Civile (DSC) est la structure centrale
+<p>Rattachée au ministère de l'Intérieur, la Direction de la Sécurité Civile (DSC) est la structure centrale
 responsable de la gestion des risques en France pour les accidents de la vie courante ou les
 catastrophes majeures. Parmi ses compétences figure la gestion des services départementaux
 d’incendie et de secours (SDIS) qui gère les centres d’incendie et de secours (CIS) appelés
-familièrement "casernes". \n
-Concevoir une application permettant la gestion complè te de quatre casernes de pompiers
-(personnel, matériel et missions effectuées). \n
+familièrement "casernes". </p>
+<p>Concevoir une application permettant la gestion complè te de quatre casernes de pompiers
+(personnel, matériel et missions effectuées). </p>
 Votre application devra offrir les fonctionnalités suivantes : \n
 - Volet 1 : tableau de bord des missions en cours. \n
 - Volet 2 : création d’une nouvelle mission puis affectation du matériel nécessaire ainsi que
