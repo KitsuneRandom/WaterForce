@@ -1,6 +1,6 @@
 ## Application de gestion de casernes de pompiers
 
-<h3>Ce projet a été réalisé lors de ma première année en BUT informatique.</h3>
+<h3>Ce projet a été réalisé lors de notre première année en BUT informatique.</h3>
 à noter : aucun dépôt git n'a été créé lors de la réalisation du projet. Ceci est donc un simple dépôt généré après sa réalisation.
 
 <h3>Contexte du projet (donné par les professeurs responsables du projet) : </h3>
