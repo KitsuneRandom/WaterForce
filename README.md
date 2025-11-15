@@ -36,6 +36,7 @@ particuliè re sera porté e à leur ergonomie et l’originalité de leur d
 
 - Tableau de bord montrant la liste des missions : permet la clôture rapide des missions et l'édition d'un pdf récapitulatif de la mission
 - Des boutons permettant d'accèder aux différents formulaires de l'application
+<img src="screenshots/demarrage.png">
 
 ---
 
@@ -44,6 +45,7 @@ particuliè re sera porté e à leur ergonomie et l’originalité de leur d
 - L'utilisateur remplit les informations de la mission.
 - L'application choisit ensuite une caserne dans laquelle les conditions sont remplies pour le lancement de la mission.
 - L'application génère l'effectif de pompiers et de véhicules à utiliser en fonction du type de sinistre et de la disponibilité des pompiers et des véhicules.
+<img src="screenshots/missions.png">
 
 ---
 
@@ -51,6 +53,7 @@ particuliè re sera porté e à leur ergonomie et l’originalité de leur d
 
 - Visualisation des différents engins de chaque caserne.
 - Visualisation de l'état des engins (en panne / en mission)
+<img src="screenshots/vehicules.png">
 
 ---
 
@@ -59,6 +62,7 @@ particuliè re sera porté e à leur ergonomie et l’originalité de leur d
 - Consultation des informations concernant les pompiers de chaque caserne
 - Modification des informations des pompiers
 - Ajout d'un nouveau pompier
+<img src="screenshots/gestion_pompiers.png">
 
 ---
 
@@ -70,6 +74,7 @@ particuliè re sera porté e à leur ergonomie et l’originalité de leur d
     - Nombre d'interventions par sinistre
     - Habilitations les plus sollicitées
     - Liste des pompiers par habilitation
+<img src="screenshots/statistiques.png">
 
 ---
 
